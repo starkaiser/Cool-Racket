@@ -1,3 +1,3 @@
 # Cool-Racket
-Source code for the cool racket youtube series.
+Some random interesting projects in racket.
 
